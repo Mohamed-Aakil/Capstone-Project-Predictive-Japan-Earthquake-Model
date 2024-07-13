@@ -98,7 +98,8 @@ variables
 ![image](https://github.com/user-attachments/assets/d1baf8d0-cead-4834-9947-7e5241c26306)
 
 <b>Data types, count, and size:</b>
-|Column |Data Type |Count |Data Size
+
+- |Column |Data Type |Count |Data Size
 - time - object - 22123 - 486706
 - latitude - float64 - 22123 - 486706
 - longitude - float64 - 22123 486706
@@ -222,7 +223,8 @@ predictive modeling can be more efficient and effective.]
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/e9b30f51-4a53-4bb9-b297-da348f642b0b">
     
 -<b>Data types, count, and size:</b>
-|Column	|Data Type	|Count	|Data Size
+
+- |Column	|Data Type	|Count	|Data Size
 - time	- object	- 22123	- 486706
 - latitude	- float64	- 22123	- 486706
 - longitude	- float64	- 22123	- 486706
