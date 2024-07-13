@@ -1,0 +1,27 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1909-09-16T19:38:51.640Z,42.113,142.362,35,6.57,mw,,,,,iscgem,iscgem602790116,2022-04-25T20:36:07.839Z,"24 km S of Shizunai-furukawach?, Japan",earthquake,,14.6,0.29,,reviewed,iscgem,iscgem
+1909-09-10T18:08:48.730Z,28.984,129.398,15,5.75,mw,,,,,iscgem,iscgem16958053,2022-04-25T20:30:29.233Z,"68 km N of Naze, Japan",earthquake,,12.7,0.2,,reviewed,iscgem,iscgem
+1909-08-14T06:30:54.450Z,35.773,136.557,15,6.91,mw,,,,,iscgem,iscgem16958049,2022-04-25T20:30:16.707Z,"23 km SSE of Ono, Japan",earthquake,,4.5,0.4,,reviewed,iscgem,iscgem
+1909-07-02T20:54:25.640Z,35.507,139.948,15,5.77,mw,,,,,iscgemsup,iscgemsup610326349,2022-05-09T15:19:34.225Z,"12 km W of Ichihara, Japan",earthquake,,10.5,0.68,,reviewed,iscgemsup,iscgemsup
+1909-03-22T20:03:42.440Z,37.533,143.638,15,6.59,mw,,,,,iscgemsup,iscgemsup602790117,2022-05-09T15:18:52.847Z,"227 km ESE of Ishinomaki, Japan",earthquake,,25,0.21,,reviewed,iscgemsup,iscgemsup
+1909-03-13T14:28:59.850Z,35.267,142.387,15,7.11,mw,,,,,iscgem,iscgem16958018,2022-04-25T20:29:51.529Z,"150 km ESE of Hasaki, Japan",earthquake,,35.3,0.2,,reviewed,iscgem,iscgem
+1909-03-12T23:18:38.820Z,35.897,141.719,15,7.03,mw,,,,,iscgem,iscgem609601749,2022-04-25T20:36:17.091Z,"82 km ENE of Hasaki, Japan",earthquake,,12.4,0.21,,reviewed,iscgem,iscgem
+1909-03-10T23:55:13.470Z,29.935,130.877,35,6.53,mw,,,,,iscgemsup,iscgemsup602790119,2022-05-09T15:18:58.228Z,"46 km SE of Koshima, Japan",earthquake,,6.8,0.27,,reviewed,iscgemsup,iscgemsup
+1908-01-15T12:57:21.300Z,37.587,141.782,35,6.82,mw,,,,,iscgem,iscgem16957983,2022-04-25T20:29:27.244Z,"70 km E of Namie, Japan",earthquake,,9.1,0.2,,reviewed,iscgem,iscgem
+1907-12-02T13:53:19.950Z,40.492,143.33,35,6.01,mw,,,,,iscgem,iscgem602790121,2022-04-25T20:36:14.407Z,"151 km NE of Miyako, Japan",earthquake,,9.4,0.43,,reviewed,iscgem,iscgem
+1907-08-05T01:55:57.360Z,40.32,139.048,20,6.04,mw,,,,,iscgemsup,iscgemsup610548693,2022-05-09T15:25:17.396Z,"84 km W of Noshiro, Japan",earthquake,,9.7,0.2,,reviewed,iscgemsup,iscgemsup
+1907-06-26T17:18:33.880Z,26.863,141.36,35,6.31,mw,,,,,iscgemsup,iscgemsup610548689,2022-05-09T15:25:15.944Z,"Bonin Islands, Japan region",earthquake,,25,0.4,,reviewed,iscgemsup,iscgemsup
+1907-06-25T02:47:06.910Z,30.643,144.024,15,6.31,mw,,,,,iscgemsup,iscgemsup610548688,2022-05-09T15:25:09.472Z,"East of the Izu Islands",earthquake,,25,0.21,,reviewed,iscgemsup,iscgemsup
+1907-05-04T08:36:32.480Z,27.998,142.222,35,6.43,mw,,,,,iscgem,iscgem16957955,2022-04-25T20:28:42.321Z,"Bonin Islands, Japan region",earthquake,,9.3,0.28,,reviewed,iscgem,iscgem
+1906-11-08T00:39:40.830Z,30.188,140.788,35,6.23,mw,,,,,iscgem,iscgem610548670,2022-04-25T20:40:54.160Z,"Izu Islands, Japan region",earthquake,,16.4,0.22,,reviewed,iscgem,iscgem
+1906-09-17T04:16:38.270Z,34.021,138.834,20,6.38,mw,,,,,iscgemsup,iscgemsup610548660,2022-05-09T15:24:40.272Z,"73 km S of Shimoda, Japan",earthquake,,4.9,0.38,,reviewed,iscgemsup,iscgemsup
+1906-09-07T18:52:28.120Z,34.745,142.542,15,7.29,mw,,,,,iscgem,iscgem16957919,2022-04-25T20:27:39.573Z,"190 km SE of Hasaki, Japan",earthquake,,9.9,0.27,,reviewed,iscgem,iscgem
+1906-05-04T23:09:07.460Z,34.093,134.891,35,6.01,mw,,,,,iscgem,iscgem610326312,2022-04-25T20:36:51.971Z,"24 km SE of Fukura, Japan",earthquake,,6.2,0.53,,reviewed,iscgem,iscgem
+1906-04-20T19:39:40.890Z,35.81,137.07,15,5.77,mw,,,,,iscgemsup,iscgemsup610326310,2022-05-09T15:19:27.522Z,"12 km NE of Guj?, Japan",earthquake,,25,0.76,,reviewed,iscgemsup,iscgemsup
+1906-04-08T17:37:51.510Z,36.723,142.318,35,6.61,mw,,,,,iscgem,iscgem610548635,2022-04-25T20:40:01.187Z,"132 km ESE of Iwaki, Japan",earthquake,,15.2,0.7,,reviewed,iscgem,iscgem
+1906-03-13T13:26:40.640Z,32.56,132.052,30,6.64,mw,,,,,iscgem,iscgem610326308,2022-04-25T20:36:50.610Z,"36 km E of Nobeoka, Japan",earthquake,,6.5,0.67,,reviewed,iscgem,iscgem
+1906-02-24T00:13:40.730Z,34.633,141.424,15,6.25,mw,,,,,iscgem,iscgem610326306,2022-04-25T20:36:44.935Z,"116 km ESE of Katsuura, Japan",earthquake,,15.9,0.2,,reviewed,iscgem,iscgem
+1906-01-21T13:49:33.570Z,34.175,138.025,300,7.4,mw,,,,,iscgem,iscgem16957883,2022-04-25T20:24:35.887Z,"50 km SSW of ?yama, Japan",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1905-07-06T16:20:46.930Z,38.417,144.119,15,7.67,mw,,,,,iscgem,iscgem914292,2022-04-26T00:10:30.983Z,"217 km ESE of Kamaishi, Japan",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1905-06-02T05:39:39.600Z,33.715,131.759,60,6.91,mw,,,,,iscgem,iscgem16957852,2022-04-25T20:23:58.797Z,"31 km SSW of Hikari, Japan",earthquake,,15.4,0.53,,reviewed,iscgem,iscgem
+1905-05-11T17:09:01.460Z,25.967,143.332,15,6.78,mw,,,,,iscgemsup,iscgemsup610548602,2022-05-09T15:22:55.604Z,"Volcano Islands, Japan region",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
