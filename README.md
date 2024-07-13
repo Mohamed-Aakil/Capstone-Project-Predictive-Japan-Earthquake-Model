@@ -99,7 +99,7 @@ variables
 
 <b>Data types, count, and size:</b>
 
-- |Column |Data Type |Count |Data Size
+- |Column |- Data Type |- Count |- Data Size
 - time - object - 22123 - 486706
 - latitude - float64 - 22123 - 486706
 - longitude - float64 - 22123 486706
